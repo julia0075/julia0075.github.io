@@ -1,0 +1,28 @@
+
+p{
+    color:rgb(90, 6, 83);
+    font: size 18pxpt;
+    font-family: "Dancing Script";
+}
+
+body{
+    color:rgb(179, 70, 169);
+    background-color:rgb(253, 181, 247)
+
+}
+
+img{
+width:600px;
+
+}
+
+
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+div{max-width:600px;margin:auto;}
